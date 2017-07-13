@@ -1,0 +1,86 @@
+[12-May-2015 17:43:12 Europe/Helsinki] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/manage/welcome.php on line 7
+[12-May-2015 17:44:07 Europe/Helsinki] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/manage/welcome.php on line 7
+[12-May-2015 17:44:08 Europe/Helsinki] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/manage/welcome.php on line 7
+[08-Jun-2015 12:03:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:03:55 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:04:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:04:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:04:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:04:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:04:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:05:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 58
+[08-Jun-2015 12:14:39 Europe/Helsinki] PHP Fatal error:  Call to undefined method news::get_haber() in /home/bigg/public_html/hera/cbi/application/controllers/basinodasi.php on line 15
+[08-Jun-2015 12:17:40 Europe/Helsinki] PHP Fatal error:  Call to undefined method news::get_haber() in /home/bigg/public_html/hera/cbi/application/controllers/basinodasi.php on line 15
+[08-Jun-2015 12:17:41 Europe/Helsinki] PHP Fatal error:  Call to undefined method news::get_haber() in /home/bigg/public_html/hera/cbi/application/controllers/basinodasi.php on line 15
+[08-Jun-2015 12:17:42 Europe/Helsinki] PHP Fatal error:  Call to undefined method news::get_haber() in /home/bigg/public_html/hera/cbi/application/controllers/basinodasi.php on line 15
+[08-Jun-2015 12:17:47 Europe/Helsinki] PHP Fatal error:  Call to undefined method news::get_haber() in /home/bigg/public_html/hera/cbi/application/controllers/basinodasi.php on line 15
+[15-Jun-2015 18:18:18 Europe/Helsinki] PHP Fatal error:  Call to undefined function string() in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 56
+[15-Jun-2015 18:18:22 Europe/Helsinki] PHP Fatal error:  Call to undefined function string() in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 56
+[15-Jun-2015 18:18:29 Europe/Helsinki] PHP Fatal error:  Call to undefined function string() in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 56
+[15-Jun-2015 18:18:30 Europe/Helsinki] PHP Fatal error:  Call to undefined function int() in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 56
+[15-Jun-2015 18:18:32 Europe/Helsinki] PHP Fatal error:  Call to undefined function int() in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 56
+[15-Jun-2015 18:18:41 Europe/Helsinki] PHP Fatal error:  Call to undefined function int() in /home/bigg/public_html/hera/cbi/application/views/basinodasi.php on line 56
+[23-Jun-2015 14:30:49 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 6
+[23-Jun-2015 14:30:51 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 6
+[23-Jun-2015 14:30:52 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 6
+[23-Jun-2015 14:31:44 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:31:45 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:31:46 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:31:47 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:31:48 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:31:48 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:31:48 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:31:48 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:32:38 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[23-Jun-2015 14:32:39 Europe/Helsinki] PHP Fatal error:  Call to a member function get_list() on a non-object in /home/bigg/public_html/hera/cbi/application/controllers/kurumsal.php on line 7
+[26-Jun-2015 15:30:55 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/views/welcome.php on line 259
+[26-Jun-2015 15:31:04 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/views/welcome.php on line 259
+[26-Jun-2015 15:31:05 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting '(' in /home/bigg/public_html/hera/cbi/application/views/welcome.php on line 260
+[26-Jun-2015 15:31:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting '(' in /home/bigg/public_html/hera/cbi/application/views/welcome.php on line 260
+[26-Jun-2015 15:31:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting '(' in /home/bigg/public_html/hera/cbi/application/views/welcome.php on line 260
+[29-Jun-2015 13:25:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/bigg/public_html/hera/cbi/application/controllers/manage/about_manage.php on line 136
+[30-Jun-2015 14:13:16 Europe/Helsinki] PHP Fatal error:  Call to undefined method about_manage::post() in /home/bigg/public_html/hera/cbi/application/controllers/manage/about_manage.php on line 106
+[30-Jun-2015 14:13:44 Europe/Helsinki] PHP Fatal error:  Cannot access empty property in /home/bigg/public_html/hera/cbi/application/controllers/manage/about_manage.php on line 106
+[30-Jun-2015 14:30:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bigg/public_html/hera/cbi/application/models/about.php on line 16
+[30-Jun-2015 14:30:49 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bigg/public_html/hera/cbi/application/models/about.php on line 16
+[30-Jun-2015 14:30:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bigg/public_html/hera/cbi/application/models/about.php on line 16
+[30-Jun-2015 14:30:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bigg/public_html/hera/cbi/application/models/about.php on line 16
+[30-Jun-2015 14:30:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bigg/public_html/hera/cbi/application/models/about.php on line 16
+[30-Jun-2015 14:30:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/bigg/public_html/hera/cbi/application/models/about.php on line 16
+[30-Jun-2015 15:07:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/bigg/public_html/hera/cbi/application/views/manage/about_edit.php on line 92
+[30-Jun-2015 15:07:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /home/bigg/public_html/hera/cbi/application/views/manage/about_edit.php on line 92
+[30-Jun-2015 15:17:27 Europe/Helsinki] PHP Fatal error:  Class 'About' not found in /home/bigg/public_html/hera/cbi/system/core/Loader.php on line 303
+[30-Jun-2015 15:18:33 Europe/Helsinki] PHP Fatal error:  Class 'About' not found in /home/bigg/public_html/hera/cbi/system/core/Loader.php on line 303
+[30-Jun-2015 15:29:51 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 12
+[30-Jun-2015 15:29:52 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 12
+[30-Jun-2015 15:29:52 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 12
+[30-Jun-2015 15:29:53 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 12
+[30-Jun-2015 15:30:07 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:30:09 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:30:10 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:30:10 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:08 Europe/Helsinki] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:09 Europe/Helsinki] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:09 Europe/Helsinki] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:40 Europe/Helsinki] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:41 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:42 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:42 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:43 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:43 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:36:54 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/bigg/public_html/hera/cbi/application/models/about.php on line 13
+[30-Jun-2015 15:40:20 Europe/Helsinki] PHP Fatal error:  Class 'About' not found in /home/bigg/public_html/hera/cbi/system/core/Loader.php on line 303
+[02-Jul-2015 17:52:42 Europe/Helsinki] PHP Fatal error:  Class 'About' not found in /home/bigg/public_html/hera/cbi/system/core/Loader.php on line 303
+[02-Jul-2015 18:20:53 Europe/Helsinki] PHP Fatal error:  Call to undefined function get_lan() in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 7
+[02-Jul-2015 18:20:54 Europe/Helsinki] PHP Fatal error:  Call to undefined function get_lan() in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 7
+[02-Jul-2015 18:20:55 Europe/Helsinki] PHP Fatal error:  Call to undefined function get_lan() in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 7
+[02-Jul-2015 18:20:55 Europe/Helsinki] PHP Fatal error:  Call to undefined function get_lan() in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 7
+[02-Jul-2015 18:21:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 7
+[02-Jul-2015 18:21:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
+[02-Jul-2015 18:21:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
+[02-Jul-2015 18:21:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
+[02-Jul-2015 18:21:35 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
+[02-Jul-2015 18:21:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
+[02-Jul-2015 18:21:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
+[02-Jul-2015 18:21:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
+[02-Jul-2015 18:21:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ':' in /home/bigg/public_html/hera/cbi/application/controllers/welcome.php on line 8
